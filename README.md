@@ -1,4 +1,4 @@
-<h1 align="center">Helo, I'm Bhuvaneswari</h1>
+<h1 align="center">Heloo, I'm Bhuvaneswari</h1>
 <h3 align="center">A aspiring Python learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
