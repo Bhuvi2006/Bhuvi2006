@@ -1,6 +1,5 @@
 <h1 align="center">Heloo, I'm Bhuvaneswari</h1>
-<h3 align="center">A aspiring Python learner from India</h3>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8900F79C&background=F25BFF00&center=true&random=false&width=435&lines=Aspiring+Python+learner+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
 
 - 🌱 I’m currently learning **Python**
