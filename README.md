@@ -1,5 +1,5 @@
 <h1 align="center">Heloo, I'm Bhuvaneswari</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8900F79C&background=F25BFF00&center=true&random=false&width=435&lines=Aspiring+Python+learner" alt="Typing SVG" /></a
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7313F7&center=true&random=false&width=441&height=56&lines=Aspiring+python+learner+;+Passionate+about+coding+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 </>
@@ -24,4 +24,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bhuvi2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![Bhuvi2006's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhuvi2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
