@@ -18,6 +18,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
+ <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhuvi2006&theme=tokyonight" alt="Profile card" width="60%" height="auto"></a>
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvi2006&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -27,4 +28,7 @@
 
 
 [![Bhuvi2006's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhuvi2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
