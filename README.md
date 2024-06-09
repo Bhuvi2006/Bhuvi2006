@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0B0FF&height=120&section=header" width=150% />
 <h1 align="center">Heloo, I'm Bhuvaneswari</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7313F7&center=true&random=false&width=441&height=56&lines=Aspiring+python+learner+;+Passionate+about+coding+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
@@ -18,7 +19,6 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
- <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhuvi2006&theme=tokyonight" alt="Profile card" width="60%" height="auto"></a>
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvi2006&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
