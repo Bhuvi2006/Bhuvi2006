@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 </>
-- 🌱 I’m currently learning Python , going to start C programming 
+- 🌱 I’m currently learning Python , going to start C programming<br>
+- I’m looking to collaborate on projects based on Python and figma.
 
 - 📫 How to reach me **bhuvijai2006@gmail.com**
 
@@ -17,7 +18,7 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Bhuvi2006&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="60%" height="19%">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"   </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"   </a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="icon" width="50" height="50" /> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
