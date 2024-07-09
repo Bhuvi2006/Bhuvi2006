@@ -18,7 +18,7 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Bhuvi2006&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="60%" height="19%">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"   </a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="icon" width="50" height="50" /> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"   </a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="icon" width="50" height="50" />    <img width="43" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" title="c"/></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvi2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
