@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E0B0FF&height=120&section=header" width=150% />
 <h1 align="center">Heloo, I'm Bhuvaneswari</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7313F7&center=true&random=false&width=441&height=56&lines=Aspiring+python+learner+;+Passionate+about+coding+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7313F7&center=true&random=false&width=441&height=56&lines=Aspiring+Python+C+learner+;+Passionate+about+coding+;+Interested in Designing ✨" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvi2006&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvi2006" /> </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 </>
 - 🌱 I’m currently learning Python , going to start C programming<br>
-- I’m looking to collaborate on projects based on Python and figma.
+- I’m looking to collaborate on projects based on Python and figma and C.
 
 - 📫 How to reach me **bhuvijai2006@gmail.com**
 
